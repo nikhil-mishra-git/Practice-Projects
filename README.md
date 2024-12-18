@@ -19,6 +19,7 @@
 -> Add new tasks <br/>
 -> Mark tasks as completed (with a checkmark) <br/>
 -> Remove tasks <br/>
+-> Edit tasks <br/>
 -> Data persists across sessions using local storage <br/>
 -> Fully responsive and mobile-friendly design for all devices <br/>
 
