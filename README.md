@@ -10,7 +10,7 @@
 
 **Project 2** : *Todo App*
 
-*Live Link* :- [ToDo App.com](https://todoappbynik.netlify.app)
+*Live Link* :- [ToDoApp.com](https://todoappbynik.netlify.app)
 
 **Technologies Used** : HTML, CSS, JavaScript (Local Storage for data persistence)
 
